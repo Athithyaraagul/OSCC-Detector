@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+torchvision
+Pillow
+scikit-learn
+numpy
+matplotlib
+seaborn
+jinja2
